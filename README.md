@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Profile%20views&color=0e75b6&style=flat" alt="snmtriet" /> </p>
 
-- I’m currently working on a personal project: [CSGO Case Opening website.](https://csgoempire-vue.vercel.app)
+- I’m currently working on a personal project: [CSGO Case Opening.](https://csgomt.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://snmtriet.com](https://snmtriet.com)
+- 👨‍💻 All of my projects are available at [https://snmtriet.vercel.app](https://snmtriet.vercel.app)
 
 - 📫 How to reach me **snmtriet@gmail.com**
 
-- 📄 Know about my experiences [https://snmtriet.com/experiences](https://snmtriet.com/experiences)
+- 📄 Know about my experiences [https://snmtriet.vercel.app/experiences](https://snmtriet.vercel.app/experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
