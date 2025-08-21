@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Profile%20views&color=0e75b6&style=flat" alt="snmtriet" /> </p>
 
-- I’m currently working on personal projects: [CSGO Case Opening](https://csgomt.vercel.app) and [Skin Club Clone](https://skinmt.vercel.app).
+- I’m currently working on personal projects: [CSGO Case Opening](https://csgomt.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://snmtriet.vercel.app](https://snmtriet.vercel.app)
 
