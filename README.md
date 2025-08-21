@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://snmtriet.vercel.app](https://snmtriet.vercel.app)
 
-- 📫 How to reach me **snmtriet@gmail.com**
-
 - 📄 Know about my experiences [https://snmtriet.vercel.app/works](https://snmtriet.vercel.app/works)
 
 <h3 align="left">Connect with me:</h3>
