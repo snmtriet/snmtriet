@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Profile%20views&color=0e75b6&style=flat" alt="snmtriet" /> </p>
 
-- I’m currently working on personal projects: [CSGO Case Opening](https://csgomt.vercel.app)
+- I’m currently working on personal projects: [CSGO Case Opening](https://csgo.website)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
